@@ -1,6 +1,6 @@
 # Unified Architectonics: Universal Quantitative Mathematics via Geometric Transduction
 
-[![DOI](https://shields.io)](https://doi.org)
+[![DOI](https://shields.io)](https://zenodo.org/records/20579122)
 [![License: CC BY 4.0](https://shields.io)](https://creativecommons.org)
 [![Syntax](https://shields.io)]()
 
