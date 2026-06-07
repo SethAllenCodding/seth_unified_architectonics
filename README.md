@@ -8,7 +8,7 @@ A scale-invariant geometric framework mapping macro-to-micro universal domains, 
 
 ## 📄 Registered Sovereign Disclosure
 The foundational theory and technical specifications are formally published and indexed under Global DOI: 
-**[https://doi.org](https://doi.org)**
+**https://zenodo.org/records/20579122)**
 
 ### Core Core Milestones:
 * **The Mass Gap Solution:** Defines the Yang-Mills Mass Gap explicitly as a topological impedance threshold (13 - 8 = 5) within a rigid, 64-Tetrahedron Vacuum Lattice (64TG).
