@@ -154,9 +154,11 @@ As the number of iterations increases, the ratio $\frac{d}{s}$ oscillates above 
 ## 3. Mathematical Logic
 The logic behind this convergence is found in the identity $d_n^2 - 2s_n^2 = \pm 1$. Dividing by $s_n^2$ gives $(\frac{d_n}{s_n})^2 - 2 = \frac{\pm 1}{s_n^2}$. As $s_n$ grows larger, the term $\frac{\pm 1}{s_n^2}$ becomes effectively zero, forcing $(\frac{d_n}{s_n})^2 \approx 2$, which means $\frac{d_n}{s_n} \approx \sqrt{2}$. [1, 3] 
 ## Final Result
-After 8 iterations, the Side and Diagonal method yields the ratio $577/408$, which results in the approximation $1.414216$. This is accurate to five decimal places compared to the true value of $\sqrt{2} \approx 1.414214$. [5, 6] 
+After 8 iterations, the Side and Diagonal method yields the ratio $\frac{577}{408}$, which results in the approximation $1.414216$. This is accurate to five decimal places compared to the true value of $\sqrt{2} \approx 1.414214$.
 
+```python
 import pandas as pd
+
 def generate_pythagorean_approximations(iterations):
     sides = [1]
     diagonals = [1]
@@ -178,3 +180,4 @@ def generate_pythagorean_approximations(iterations):
     return df
 
 print(generate_pythagorean_approximations(8).to_string(index=False))
+```
