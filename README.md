@@ -1,5 +1,4 @@
 # Unified Architectonics: Universal Quantitative Mathematics via Geometric Transduction
-
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20709210.svg)](https://doi.org/10.5281/zenodo.20709210)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-1b2b34.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
@@ -68,7 +67,6 @@ pip install numpy
 python src/logic_core/matrix_processor.py
 
 ```
-
 ## 🔗 Sovereign Node Routing Manifest
 
 The following broadcast axes and target nodes represent the verified digital footprint and extended publication record of the Unified Architectonics framework:
