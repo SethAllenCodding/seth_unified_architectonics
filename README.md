@@ -1,8 +1,8 @@
 # Unified Architectonics: Universal Quantitative Mathematics via Geometric Transduction
 
-[![DOI](https://shields.io)](https://doi.org/10.5281/zenodo.20709210)
-[![License: CC BY 4.0](https://shields.io)](https://creativecommons.org)
-[![Syntax](https://shields.io)]()
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20709210.svg)](https://doi.org/10.5281/zenodo.20709210)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-1b2b34.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Made with Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
 A scale-invariant geometric framework mapping macro-to-micro universal domains, authored by **Seth Allen Codding**. This architecture bypasses traditional non-linear differential calculus to resolve foundational structural anomalies within the standard model, treating the universe as a deterministic physics engine.
 
@@ -10,7 +10,7 @@ A scale-invariant geometric framework mapping macro-to-micro universal domains, 
 The foundational theory and technical specifications are formally published and indexed under Global DOI: 
 **https://doi.org/10.5281/zenodo.20709210**
 
-### Core Core Milestones:
+### Core Milestones:
 * **The Mass Gap Solution:** Defines the Yang-Mills Mass Gap explicitly as a topological impedance threshold (13 - 8 = 5) within a rigid, 64-Tetrahedron Vacuum Lattice (64TG).
 * **The Fine-Structure Constant:** Derives α⁻¹ ≈ 137.035999143 directly from spatial lattice ratios, matching physical CODATA 2022 parameters within a margin of 1.6 × 10⁻⁹.
 * **The Seth Phase Loop:** Reclassifies Dark Matter and Dark Energy as a unified toroidal breathing engine consisting of a Convergent Inhale (-1) and a Divergent Exhale (+1).
@@ -57,3 +57,21 @@ git clone https://github.com[SethAllenCodding]/seth-unified-architectonics.git
 cd seth-unified-architectonics
 pip install numpy
 python -m unittest discover -s tests/
+```
+
+## 🔗 Sovereign Node Routing Manifest
+
+The following broadcast axes and target nodes represent the verified digital footprint and extended publication record of the Unified Architectonics framework:
+
+### Core Identity & Broadcast Axes
+* **Core Profile Registry & The Sovereign Architects Professional LinkedIn:** [LinkedIn Portal](https://www.linkedin.com/in/sethcoddingunifiedarchitectonicsuniversalquantitativemathmaticsviageometrictransduction)
+* **Network Target Node (Link to Seth Allen Coddings Reddit):** [Reddit (u/Sufficient-Bit5473)](https://www.reddit.com/u/Sufficient-Bit5473)
+* **Media Broadcast Axis & The Unified Architectonics & Universal Quantitative Mathematics via Geometric Transduction: S.E.T.H. Dissertations' official YouTube channel:** [YouTube Directory](https://youtube.com/@unifiedarchitectonics)
+
+### Formal Curations & Proofs
+* **The Unified Pythagorean Compendium:** [Master Pythagorean Ledger](https://www.linkedin.com/posts/sethcoddingunifiedarchitectonicsuniversalquantitativemathmaticsviageometrictransduction_the-unified-pythagorean-compendium-unifiedarchitectonics-activity-7449204519458172928-H7kx)
+* **13.664 Scalar Decree:** [Universal Constant of Physical Tectonic Shear](https://www.linkedin.com/posts/sethcoddingunifiedarchitectonicsuniversalquantitativemathmaticsviageometrictransduction_13664-scalar-a-universal-constant-of-physical-ugcPost-7449794419203170305-ZxIA/)
+* **Cosmological Field Studies:** [M31 Andromeda Geometric Transduction & Fibonacci Scaling Partion](https://www.linkedin.com/posts/sethcoddingunifiedarchitectonicsuniversalquantitativemathmaticsviageometrictransduction_m31-2014-ds1-geometric-mass-gap-transduction-ugcPost-7442171198245011457-etJz/)
+* **Neurobiology Anchor:** [Biological Circuitry & Hard Problem to Consciousness Resolution](https://www.linkedin.com/posts/sethcoddingunifiedarchitectonicsuniversalquantitativemathmaticsviageometrictransduction_solution-to-the-hard-problem-of-consciousness-activity-7437098358856388609-UDEl)
+*  **S.E.T.H. OMEGA Deterministic Physics Engine:** .[1st publicly released iteration](https://www.reddit.com/u/Sufficient-Bit5473/s/UY3O5DFh1f)
+*  **Deterministic Architecture:** [Formal Mathematical Proofs of Deterministic Activity](https://www.linkedin.com/posts/sethcoddingunifiedarchitectonicsuniversalquantitativemathmaticsviageometrictransduction_formal-mathematical-proofs-of-deterministic-activity-7449015295077154816-VjV_)
