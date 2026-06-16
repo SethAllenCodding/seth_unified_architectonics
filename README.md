@@ -58,6 +58,19 @@ public class FieldSynthesizer : MonoBehaviour {
 }
 
 ```
+## 📚 Theoretical Baselines & Companion Libraries
+The discrete numerical node distributions and active boundary limits running within the `src/` computational engines are structurally derived from the geometric formalisms anchored in the library layer. 
+
+For complete cross-platform traceability, explore the **[Pythagorean Architectonics Directory Index](./docs/pythagorean_compendium/README.md)**, which features real-time LaTeX math rendering and an integrated 8-iteration Side and Diagonal dataframe execution script.
+
+The repository houses five companion volumes available for open-science verification:
+
+* **[Volume I: Mathematical Specification](./docs/pythagorean_compendium/Pythagorean_Technical_Manual_Complete.pdf)** – Full analytical criteria for Euclid's Primitive Triple Generator parameters ($m > n > 0$), Theon's Ladder linear recurrence matrices, and pure superparticular harmonic frequency multipliers.
+* **[Volume II: Universal Edition](./docs/pythagorean_compendium/Pythagorean_Technical_Manual_Extended_Edition.pdf)** – Structural mappings of the Quadrivium (Arithmetic, Harmonics, Space, and Cosmic Order), Gnomonic figurate number expansions, and polygonal summation architectures.
+* **[Volume III: Advanced Proofs & Solids](./docs/pythagorean_compendium/Pythagorean_Compendium_Vol_II.pdf)** – Cryptographic and geometric isolation of the Platonic regular polyhedra, the formal proof by contradiction for the crisis of incommensurability ($\sqrt{2}$), and recursive algorithms satisfying Pell's Equation ($D_n^2 - 2S_n^2 = (-1)^n$).
+* **[Master Synthesis Portfolio](./docs/pythagorean_compendium/Unified_Pythagorean_Compendium.pdf)** – A comprehensive integration of metaphysical logic, continuous topology boundaries, and a processed symmetrical data matrix of the first 100 Primitive Pythagorean Triples.
+* **[The Complete Pythagorean Compendium](./docs/pythagorean_compendium/The_Complete_Pythagorean_Compendium.pdf)** – Synthesized tracking manual unifying Euclidean distance metrics, modern signal processing harmonic wave decompositions, and historical structural foundations.
+
 ## 🛠️ Verification and Deployment
 To clone the repository and run the automated architecture testing suite:
 ```bash
