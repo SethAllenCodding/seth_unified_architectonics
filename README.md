@@ -1,6 +1,6 @@
 # Unified Architectonics: Universal Quantitative Mathematics via Geometric Transduction
 
-[![DOI](https://shields.io)](https://zenodo.org/records/20579122)
+[![DOI](https://shields.io)](https://doi.org/10.5281/zenodo.20709210)
 [![License: CC BY 4.0](https://shields.io)](https://creativecommons.org)
 [![Syntax](https://shields.io)]()
 
@@ -8,7 +8,7 @@ A scale-invariant geometric framework mapping macro-to-micro universal domains, 
 
 ## 📄 Registered Sovereign Disclosure
 The foundational theory and technical specifications are formally published and indexed under Global DOI: 
-**https://zenodo.org/records/20579122)**
+**https://doi.org/10.5281/zenodo.20709210**
 
 ### Core Core Milestones:
 * **The Mass Gap Solution:** Defines the Yang-Mills Mass Gap explicitly as a topological impedance threshold (13 - 8 = 5) within a rigid, 64-Tetrahedron Vacuum Lattice (64TG).
