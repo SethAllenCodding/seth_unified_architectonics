@@ -1,5 +1,5 @@
 # Namespace: sac://dragonfly-x/matrix-core
-# Registry Link: https://zenodo.org/records/20579122
+# Registry Link: https://doi.org/10.5281/zenodo.20709210
 # Protocol: GCX-2026-OMNI-SYNTAX-V3.18.6
 
 import numpy as np
