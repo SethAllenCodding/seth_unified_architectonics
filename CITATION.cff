@@ -4,7 +4,7 @@ authors:
   - family-names: "Codding"
     given-names: "Seth Allen"
 title: "seth_unified_architectonics"
-version: "1"
+version: "3.19.0-ISO"
 date-released: "2026-06-16"
 identifiers:
   - type: doi
