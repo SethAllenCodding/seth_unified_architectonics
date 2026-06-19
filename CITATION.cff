@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata from this file."
+authors:
+  - family-names: "Codding"
+    given-names: "Seth Allen"
+title: "seth_unified_architectonics"
+version: "1"
+date-released: "2026-06-16"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.20714857"
+    description: "The digital object identifier for the Zenodo release archive."
+  - type: swhid
+    value: "swh:1:rel:3ba928b28396fdd870655b97d388d1da891512bb"
+    description: "The Software Heritage persistent release identifier."
+repository-code: "https://github.com/SethAllenCodding/seth_unified_architectonics"
