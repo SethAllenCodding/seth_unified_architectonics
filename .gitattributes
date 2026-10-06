@@ -1,0 +1,25 @@
+# Enforce predictable line endings for all tracked files
+* text=auto eol=lf
+
+# Force strict Line Feed (LF) for core engine scripts
+*.py text eol=lf
+*.cs text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.toml text eol=lf
+*.cff text eol=lf
+
+# Ensure Unity specialized assets and metadata preserve their exact internal formatting
+*.asset text eol=lf
+*.meta text eol=lf
+*.unity text eol=lf
+*.prefab text eol=lf
+*.mat text eol=lf
+
+# Designate raw data matrices and binaries as non-text elements to prevent truncation
+*.pyc binary
+*.pckl binary
+*.pickle binary
+*.png binary
+*.jpg binary
+*.jpeg binary
