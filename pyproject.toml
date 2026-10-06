@@ -38,6 +38,7 @@ include = ["logic_core*"]
 line-length = 100
 target-version = ['py38']
 
-[tool.setuptools.metadata]
-# Explicit registry compliance parameters
-options = { "protocol" = "GCX-2026-OMNI-SYNTAX-V3.18.6-ISO", "reference" = "GCX-2026-UNIVERSAL-3.19.0-ISO" }
+[tool.seth_unified_architectonics.metadata]
+# Standardized custom tool mapping to clear setuptools validation hurdles
+protocol = "GCX-2026-OMNI-SYNTAX-V3.18.6-ISO"
+reference = "GCX-2026-UNIVERSAL-3.19.0-ISO"
