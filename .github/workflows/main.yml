@@ -17,7 +17,7 @@ jobs:
     - name: Set Up Verification Runtime (Python 3.10)
       uses: actions/setup-python@v5
       with:
-        python-python-version: '3.10'
+        python-version: '3.10'       # <-- Fixed typo here
         cache: 'pip'
 
     - name: Instantiate Toolchain Dependencies
