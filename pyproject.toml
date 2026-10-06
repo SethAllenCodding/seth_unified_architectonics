@@ -27,18 +27,13 @@ keywords = [
 Homepage = "https://github.com"
 Documentation = "https://doi.org"
 
-[tool.setuptools]
-package-dir = {"" = "src"}
-
 [tool.setuptools.packages.find]
 where = ["src"]
-include = ["logic_core*"]
 
 [tool.black]
 line-length = 100
 target-version = ['py38']
 
-# Dedicated custom namespace totally isolated from setuptools validation constraints
 [tool.unified_architectonics]
 protocol = "GCX-2026-OMNI-SYNTAX-V3.18.6-ISO"
 reference = "GCX-2026-UNIVERSAL-3.19.0-ISO"
